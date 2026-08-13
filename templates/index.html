@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>CNN Image Classification by Avishek Pandey</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+<div class="container">
+
+<a class="navbar-brand" href="/">
+
+CNN By Avishek Pandey
+
+</a>
+
+</div>
+<div>
+
+<a href="/" class="btn btn-outline-light">
+
+Home
+
+</a>
+
+<a href="/about" class="btn btn-outline-light">
+
+About
+
+</a>
+
+</div>
+
+</nav>
+
+<!-- Main Section -->
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg">
+
+        <div class="card-body text-center">
+
+            <h1 class="mb-3">
+
+                Image Classification using CNN
+
+            </h1>
+
+            <p>
+
+                Upload an image and let the trained CNN model predict
+                its class in real time. This Model has around 82% accuracy so the model might not prdict accurate on every picture.
+            </p>
+
+            <hr>
+
+            <form
+    action="/predict"
+    method="POST"
+    enctype="multipart/form-data"
+>
+
+    <input
+        class="form-control"
+        type="file"
+        name="image"
+        accept="image/*"
+        required
+    >
+
+    <br>
+
+    <button
+        class="btn btn-primary btn-lg"
+        type="submit"
+    >
+        Predict Image
+    </button>
+
+</form>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- About -->
+
+<div class="container mt-5">
+
+    <div class="card">
+
+        <div class="card-body">
+
+            <h3>About the CNN Image Classification Model</h3>
+
+            <p>
+
+    <p>
+        This project is a Convolutional Neural Network (CNN) based image 
+        classification system developed using the CIFAR-10 dataset. The model 
+        is trained to classify images into 10 different categories: airplane, 
+        automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
+    </p>
+
+    <p>
+        The CNN model achieved an accuracy of approximately <strong>82%</strong> 
+        on the CIFAR-10 test dataset, demonstrating its ability to learn visual 
+        patterns and distinguish between different image classes. The model 
+        includes image preprocessing, normalization, convolutional layers, 
+        pooling layers, and a final classification layer to predict the most 
+        likely category.
+    </p>
+
+    <p>
+        Although the model performs well, it has some limitations. Due to the 
+        small image size of CIFAR-10 images (32×32 pixels), some classes with 
+        similar visual features can be difficult to distinguish. For example, 
+        the model may occasionally confuse animals such as dogs, deer, and 
+        horses. The accuracy can also be affected by image quality, background 
+        variations, and differences between training images and new uploaded 
+        images.
+    </p>
+
+    <p>
+        Future improvements could include using deeper CNN architectures, 
+        applying advanced data augmentation techniques, transfer learning, and 
+        further model optimization to improve classification performance and 
+        reduce misclassification errors.
+    </p>
+
+
+            </p>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

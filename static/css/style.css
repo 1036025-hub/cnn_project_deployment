@@ -1,0 +1,31 @@
+body{
+
+    background:#f4f6f9;
+
+}
+
+.navbar{
+
+    padding:15px;
+
+}
+
+.card{
+
+    border:none;
+
+    border-radius:15px;
+
+}
+
+h1{
+
+    font-weight:bold;
+
+}
+
+.btn{
+
+    width:200px;
+
+}

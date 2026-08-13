@@ -1,0 +1,206 @@
+2026-07-24 09:50:23,195 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:50:23,352 | WARNING |  * Debugger is active!
+2026-07-24 09:50:23,354 | INFO |  * Debugger PIN: 117-690-807
+2026-07-24 09:51:20,286 | INFO |  * Detected change in 'C:\\Users\\Suprima Rimal\\Downloads\\cnn-image-classifier-structure\\app.py', reloading
+2026-07-24 09:51:27,887 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:51:28,016 | WARNING |  * Debugger is active!
+2026-07-24 09:51:28,024 | INFO |  * Debugger PIN: 117-690-807
+2026-07-24 09:53:12,667 | INFO |  * Detected change in 'C:\\Users\\Suprima Rimal\\Downloads\\cnn-image-classifier-structure\\app.py', reloading
+2026-07-24 09:53:19,817 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:53:19,965 | WARNING |  * Debugger is active!
+2026-07-24 09:53:19,972 | INFO |  * Debugger PIN: 117-690-807
+2026-07-24 09:53:28,715 | INFO |  * Detected change in 'C:\\Users\\Suprima Rimal\\Downloads\\cnn-image-classifier-structure\\app.py', reloading
+2026-07-24 09:53:35,717 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:53:35,865 | WARNING |  * Debugger is active!
+2026-07-24 09:53:35,865 | INFO |  * Debugger PIN: 117-690-807
+2026-07-24 09:56:03,187 | INFO |  * Detected change in 'C:\\Users\\Suprima Rimal\\Downloads\\cnn-image-classifier-structure\\app.py', reloading
+2026-07-24 09:58:03,685 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:58:03,759 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-24 09:58:03,759 | INFO | [33mPress CTRL+C to quit[0m
+2026-07-24 09:58:03,761 | INFO |  * Restarting with stat
+2026-07-24 09:58:08,079 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:58:08,139 | WARNING |  * Debugger is active!
+2026-07-24 09:58:08,141 | INFO |  * Debugger PIN: 117-690-807
+2026-07-24 09:58:35,089 | INFO | 127.0.0.1 - - [24/Jul/2026 09:58:35] "[33mGET / HTTP/1.1[0m" 404 -
+2026-07-24 09:59:05,355 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:59:05,425 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-24 09:59:05,425 | INFO | [33mPress CTRL+C to quit[0m
+2026-07-24 09:59:05,425 | INFO |  * Restarting with stat
+2026-07-24 09:59:09,683 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-24 09:59:09,743 | WARNING |  * Debugger is active!
+2026-07-24 09:59:09,745 | INFO |  * Debugger PIN: 117-690-807
+2026-07-24 09:59:48,610 | INFO | 127.0.0.1 - - [24/Jul/2026 09:59:48] "GET / HTTP/1.1" 200 -
+2026-07-24 09:59:48,652 | INFO | 127.0.0.1 - - [24/Jul/2026 09:59:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-24 09:59:51,279 | INFO | 127.0.0.1 - - [24/Jul/2026 09:59:51] "GET / HTTP/1.1" 200 -
+2026-07-24 09:59:51,284 | INFO | 127.0.0.1 - - [24/Jul/2026 09:59:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-24 09:59:52,243 | INFO | 127.0.0.1 - - [24/Jul/2026 09:59:52] "[33mGET /about HTTP/1.1[0m" 404 -
+2026-07-24 10:00:03,539 | INFO | Prediction=Horse, Confidence=51.05%
+2026-07-24 10:00:03,539 | INFO | 127.0.0.1 - - [24/Jul/2026 10:00:03] "POST /predict HTTP/1.1" 200 -
+2026-07-24 10:00:03,558 | INFO | 127.0.0.1 - - [24/Jul/2026 10:00:03] "GET /static/uploads/download.jpg HTTP/1.1" 200 -
+2026-07-24 10:00:11,084 | INFO | 127.0.0.1 - - [24/Jul/2026 10:00:11] "GET / HTTP/1.1" 200 -
+2026-07-24 10:00:11,095 | INFO | 127.0.0.1 - - [24/Jul/2026 10:00:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-24 10:00:33,218 | INFO | Prediction=Deer, Confidence=67.34%
+2026-07-24 10:00:33,219 | INFO | 127.0.0.1 - - [24/Jul/2026 10:00:33] "POST /predict HTTP/1.1" 200 -
+2026-07-24 10:00:33,223 | INFO | 127.0.0.1 - - [24/Jul/2026 10:00:33] "GET /static/uploads/images%20(1).jpg HTTP/1.1" 200 -
+2026-07-24 10:05:52,185 | INFO |  * Detected change in 'C:\\Users\\Suprima Rimal\\Downloads\\cnn-image-classifier-structure\\app.py', reloading
+2026-07-24 10:05:53,027 | INFO |  * Restarting with stat
+2026-07-28 11:33:53,038 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-28 11:33:53,307 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-28 11:33:53,307 | INFO | [33mPress CTRL+C to quit[0m
+2026-07-28 11:33:53,307 | INFO |  * Restarting with stat
+2026-07-28 11:33:57,850 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-28 11:33:58,009 | WARNING |  * Debugger is active!
+2026-07-28 11:33:58,009 | INFO |  * Debugger PIN: 117-690-807
+2026-07-28 11:34:40,319 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:40] "GET / HTTP/1.1" 200 -
+2026-07-28 11:34:40,378 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:34:40,656 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-28 11:34:51,668 | INFO | Prediction=Horse, Confidence=99.79%
+2026-07-28 11:34:51,702 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:51] "POST /predict HTTP/1.1" 200 -
+2026-07-28 11:34:51,711 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:51] "GET /static/uploads/images%20(1).jpg HTTP/1.1" 200 -
+2026-07-28 11:34:59,049 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:59] "GET / HTTP/1.1" 200 -
+2026-07-28 11:34:59,058 | INFO | 127.0.0.1 - - [28/Jul/2026 11:34:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:35:03,847 | INFO | Prediction=Horse, Confidence=88.96%
+2026-07-28 11:35:03,848 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:03] "POST /predict HTTP/1.1" 200 -
+2026-07-28 11:35:03,855 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:03] "GET /static/uploads/download.jpg HTTP/1.1" 200 -
+2026-07-28 11:35:07,270 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:07] "GET / HTTP/1.1" 200 -
+2026-07-28 11:35:07,276 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:35:11,806 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:11] "GET / HTTP/1.1" 200 -
+2026-07-28 11:35:11,821 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:35:19,704 | INFO | Prediction=Airplane, Confidence=100.00%
+2026-07-28 11:35:19,704 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:19] "POST /predict HTTP/1.1" 200 -
+2026-07-28 11:35:19,708 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:19] "GET /static/uploads/images.jpg HTTP/1.1" 200 -
+2026-07-28 11:35:21,778 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:21] "GET / HTTP/1.1" 200 -
+2026-07-28 11:35:21,787 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:35:49,235 | INFO | Prediction=Horse, Confidence=99.79%
+2026-07-28 11:35:49,235 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:49] "POST /predict HTTP/1.1" 200 -
+2026-07-28 11:35:49,253 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:49] "GET /static/uploads/images%20(1).jpg HTTP/1.1" 200 -
+2026-07-28 11:35:50,987 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:50] "GET / HTTP/1.1" 200 -
+2026-07-28 11:35:50,995 | INFO | 127.0.0.1 - - [28/Jul/2026 11:35:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:36:22,756 | INFO | Prediction=Dog, Confidence=99.97%
+2026-07-28 11:36:22,756 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:22] "POST /predict HTTP/1.1" 200 -
+2026-07-28 11:36:22,756 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:22] "GET /static/uploads/images%20(2).jpg HTTP/1.1" 200 -
+2026-07-28 11:36:31,843 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:31] "GET / HTTP/1.1" 200 -
+2026-07-28 11:36:31,849 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:36:33,454 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:33] "GET / HTTP/1.1" 200 -
+2026-07-28 11:36:33,464 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:36:34,655 | INFO | 127.0.0.1 - - [28/Jul/2026 11:36:34] "[33mGET /about HTTP/1.1[0m" 404 -
+2026-07-28 11:37:13,424 | INFO | 127.0.0.1 - - [28/Jul/2026 11:37:13] "GET / HTTP/1.1" 200 -
+2026-07-28 11:37:13,443 | INFO | 127.0.0.1 - - [28/Jul/2026 11:37:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:37:37,339 | INFO | 127.0.0.1 - - [28/Jul/2026 11:37:37] "GET / HTTP/1.1" 200 -
+2026-07-28 11:37:37,356 | INFO | 127.0.0.1 - - [28/Jul/2026 11:37:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:38:58,294 | INFO | 127.0.0.1 - - [28/Jul/2026 11:38:58] "GET / HTTP/1.1" 200 -
+2026-07-28 11:38:58,311 | INFO | 127.0.0.1 - - [28/Jul/2026 11:38:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:39:24,391 | INFO | 127.0.0.1 - - [28/Jul/2026 11:39:24] "GET / HTTP/1.1" 200 -
+2026-07-28 11:39:24,406 | INFO | 127.0.0.1 - - [28/Jul/2026 11:39:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:41:17,577 | INFO | 127.0.0.1 - - [28/Jul/2026 11:41:17] "GET / HTTP/1.1" 200 -
+2026-07-28 11:41:17,598 | INFO | 127.0.0.1 - - [28/Jul/2026 11:41:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:41:56,206 | INFO | Prediction=Dog, Confidence=99.97%
+2026-07-28 11:41:56,206 | INFO | 127.0.0.1 - - [28/Jul/2026 11:41:56] "POST /predict HTTP/1.1" 200 -
+2026-07-28 11:41:56,222 | INFO | 127.0.0.1 - - [28/Jul/2026 11:41:56] "GET /static/uploads/images%20(2).jpg HTTP/1.1" 200 -
+2026-07-28 11:41:58,934 | INFO | 127.0.0.1 - - [28/Jul/2026 11:41:58] "GET / HTTP/1.1" 200 -
+2026-07-28 11:41:58,941 | INFO | 127.0.0.1 - - [28/Jul/2026 11:41:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:46:30,249 | INFO | 127.0.0.1 - - [28/Jul/2026 11:46:30] "GET / HTTP/1.1" 200 -
+2026-07-28 11:46:30,261 | INFO | 127.0.0.1 - - [28/Jul/2026 11:46:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:46:32,154 | INFO | 127.0.0.1 - - [28/Jul/2026 11:46:32] "[33mGET /templates/about.html HTTP/1.1[0m" 404 -
+2026-07-28 11:47:13,080 | INFO | 127.0.0.1 - - [28/Jul/2026 11:47:13] "GET / HTTP/1.1" 200 -
+2026-07-28 11:47:13,090 | INFO | 127.0.0.1 - - [28/Jul/2026 11:47:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:47:14,840 | INFO | 127.0.0.1 - - [28/Jul/2026 11:47:14] "[33mGET /cnn-image-classifier-structure/templates/about.html HTTP/1.1[0m" 404 -
+2026-07-28 11:48:15,775 | INFO |  * Detected change in 'C:\\Users\\Suprima Rimal\\Downloads\\cnn-image-classifier-structure\\app.py', reloading
+2026-07-28 11:48:16,850 | INFO |  * Restarting with stat
+2026-07-28 11:48:24,665 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-28 11:48:24,987 | WARNING |  * Debugger is active!
+2026-07-28 11:48:25,003 | INFO |  * Debugger PIN: 117-690-807
+2026-07-28 11:48:38,822 | INFO | 127.0.0.1 - - [28/Jul/2026 11:48:38] "GET / HTTP/1.1" 200 -
+2026-07-28 11:48:38,859 | INFO | 127.0.0.1 - - [28/Jul/2026 11:48:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:48:40,390 | INFO | 127.0.0.1 - - [28/Jul/2026 11:48:40] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2026-07-28 11:48:42,795 | INFO | 127.0.0.1 - - [28/Jul/2026 11:48:42] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2026-07-28 11:49:29,113 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-28 11:49:29,286 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-28 11:49:29,286 | INFO | [33mPress CTRL+C to quit[0m
+2026-07-28 11:49:29,287 | INFO |  * Restarting with stat
+2026-07-28 11:49:33,879 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-28 11:49:34,033 | WARNING |  * Debugger is active!
+2026-07-28 11:49:34,033 | INFO |  * Debugger PIN: 117-690-807
+2026-07-28 11:49:41,595 | INFO | 127.0.0.1 - - [28/Jul/2026 11:49:41] "GET / HTTP/1.1" 200 -
+2026-07-28 11:49:41,636 | INFO | 127.0.0.1 - - [28/Jul/2026 11:49:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:49:43,348 | INFO | 127.0.0.1 - - [28/Jul/2026 11:49:43] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2026-07-28 11:49:53,124 | INFO | 127.0.0.1 - - [28/Jul/2026 11:49:53] "GET / HTTP/1.1" 200 -
+2026-07-28 11:49:53,174 | INFO | 127.0.0.1 - - [28/Jul/2026 11:49:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:49:55,218 | INFO | 127.0.0.1 - - [28/Jul/2026 11:49:55] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2026-07-28 11:50:15,381 | INFO | 127.0.0.1 - - [28/Jul/2026 11:50:15] "GET /about HTTP/1.1" 200 -
+2026-07-28 11:50:36,915 | INFO | 127.0.0.1 - - [28/Jul/2026 11:50:36] "GET / HTTP/1.1" 200 -
+2026-07-28 11:50:36,925 | INFO | 127.0.0.1 - - [28/Jul/2026 11:50:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 11:50:38,749 | INFO | 127.0.0.1 - - [28/Jul/2026 11:50:38] "GET /about HTTP/1.1" 200 -
+2026-07-28 11:50:40,711 | INFO | 127.0.0.1 - - [28/Jul/2026 11:50:40] "GET / HTTP/1.1" 200 -
+2026-07-28 11:50:40,720 | INFO | 127.0.0.1 - - [28/Jul/2026 11:50:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 12:24:23,498 | INFO | 127.0.0.1 - - [28/Jul/2026 12:24:23] "GET /about HTTP/1.1" 200 -
+2026-07-28 12:24:28,647 | INFO | 127.0.0.1 - - [28/Jul/2026 12:24:28] "GET / HTTP/1.1" 200 -
+2026-07-28 12:24:28,657 | INFO | 127.0.0.1 - - [28/Jul/2026 12:24:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 12:24:49,136 | INFO | Prediction=Horse, Confidence=99.79%
+2026-07-28 12:24:49,136 | INFO | 127.0.0.1 - - [28/Jul/2026 12:24:49] "POST /predict HTTP/1.1" 200 -
+2026-07-28 12:24:49,148 | INFO | 127.0.0.1 - - [28/Jul/2026 12:24:49] "GET /static/uploads/images%20(1).jpg HTTP/1.1" 200 -
+2026-07-28 12:25:01,325 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:01] "GET / HTTP/1.1" 200 -
+2026-07-28 12:25:01,335 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 12:25:07,734 | INFO | Prediction=Dog, Confidence=99.97%
+2026-07-28 12:25:07,734 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:07] "POST /predict HTTP/1.1" 200 -
+2026-07-28 12:25:07,749 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:07] "GET /static/uploads/images%20(2).jpg HTTP/1.1" 200 -
+2026-07-28 12:25:15,844 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:15] "GET / HTTP/1.1" 200 -
+2026-07-28 12:25:15,853 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 12:25:21,892 | INFO | Prediction=Horse, Confidence=88.96%
+2026-07-28 12:25:21,892 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:21] "POST /predict HTTP/1.1" 200 -
+2026-07-28 12:25:21,906 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:21] "GET /static/uploads/download.jpg HTTP/1.1" 200 -
+2026-07-28 12:25:33,327 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:33] "GET / HTTP/1.1" 200 -
+2026-07-28 12:25:33,334 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-07-28 12:25:39,430 | INFO | Prediction=Airplane, Confidence=100.00%
+2026-07-28 12:25:39,430 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:39] "POST /predict HTTP/1.1" 200 -
+2026-07-28 12:25:39,447 | INFO | 127.0.0.1 - - [28/Jul/2026 12:25:39] "GET /static/uploads/images.jpg HTTP/1.1" 200 -
+2026-08-13 11:14:25,968 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-08-13 11:14:26,231 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-08-13 11:14:26,231 | INFO | [33mPress CTRL+C to quit[0m
+2026-08-13 11:14:26,235 | INFO |  * Restarting with stat
+2026-08-13 11:14:31,068 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-08-13 11:14:31,446 | WARNING |  * Debugger is active!
+2026-08-13 11:14:31,449 | INFO |  * Debugger PIN: 117-690-807
+2026-08-13 11:14:56,397 | INFO | 127.0.0.1 - - [13/Aug/2026 11:14:56] "GET / HTTP/1.1" 200 -
+2026-08-13 11:14:56,525 | INFO | 127.0.0.1 - - [13/Aug/2026 11:14:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 11:14:56,576 | INFO | 127.0.0.1 - - [13/Aug/2026 11:14:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-08-13 11:15:02,082 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:02] "GET /about HTTP/1.1" 200 -
+2026-08-13 11:15:04,365 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:04] "GET / HTTP/1.1" 200 -
+2026-08-13 11:15:04,384 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 11:15:16,416 | INFO | Prediction=Dog, Confidence=99.97%
+2026-08-13 11:15:19,036 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:19] "POST /predict HTTP/1.1" 200 -
+2026-08-13 11:15:19,543 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:19] "GET /static/uploads/images%20(2).jpg HTTP/1.1" 200 -
+2026-08-13 11:15:25,602 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:25] "GET / HTTP/1.1" 200 -
+2026-08-13 11:15:25,617 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 11:15:32,626 | INFO | Prediction=Horse, Confidence=88.96%
+2026-08-13 11:15:32,629 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:32] "POST /predict HTTP/1.1" 200 -
+2026-08-13 11:15:32,640 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:32] "GET /static/uploads/download.jpg HTTP/1.1" 200 -
+2026-08-13 11:15:42,390 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:42] "GET / HTTP/1.1" 200 -
+2026-08-13 11:15:42,406 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 11:15:48,985 | INFO | Prediction=Airplane, Confidence=100.00%
+2026-08-13 11:15:48,985 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:48] "POST /predict HTTP/1.1" 200 -
+2026-08-13 11:15:48,988 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:48] "GET /static/uploads/images.jpg HTTP/1.1" 200 -
+2026-08-13 11:15:52,794 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:52] "GET / HTTP/1.1" 200 -
+2026-08-13 11:15:52,813 | INFO | 127.0.0.1 - - [13/Aug/2026 11:15:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 11:16:02,326 | INFO | Prediction=Horse, Confidence=99.79%
+2026-08-13 11:16:02,331 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:02] "POST /predict HTTP/1.1" 200 -
+2026-08-13 11:16:02,342 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:02] "GET /static/uploads/images%20(1).jpg HTTP/1.1" 200 -
+2026-08-13 11:16:12,766 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:12] "GET / HTTP/1.1" 200 -
+2026-08-13 11:16:12,788 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 11:16:15,701 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:15] "GET /about HTTP/1.1" 200 -
+2026-08-13 11:16:18,257 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:18] "GET / HTTP/1.1" 200 -
+2026-08-13 11:16:18,272 | INFO | 127.0.0.1 - - [13/Aug/2026 11:16:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 12:10:52,388 | INFO | 127.0.0.1 - - [13/Aug/2026 12:10:52] "GET / HTTP/1.1" 200 -
+2026-08-13 12:10:52,415 | INFO | 127.0.0.1 - - [13/Aug/2026 12:10:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 12:10:53,769 | INFO | 127.0.0.1 - - [13/Aug/2026 12:10:53] "GET / HTTP/1.1" 200 -
+2026-08-13 12:10:53,780 | INFO | 127.0.0.1 - - [13/Aug/2026 12:10:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 12:11:00,410 | INFO | 127.0.0.1 - - [13/Aug/2026 12:11:00] "GET / HTTP/1.1" 200 -
+2026-08-13 12:11:00,418 | INFO | 127.0.0.1 - - [13/Aug/2026 12:11:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-08-13 12:11:01,520 | INFO | 127.0.0.1 - - [13/Aug/2026 12:11:01] "GET /about HTTP/1.1" 200 -
+2026-08-13 12:11:14,070 | INFO | 127.0.0.1 - - [13/Aug/2026 12:11:14] "GET / HTTP/1.1" 200 -
+2026-08-13 12:11:14,078 | INFO | 127.0.0.1 - - [13/Aug/2026 12:11:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
